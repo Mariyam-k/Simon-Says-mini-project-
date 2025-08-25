@@ -25,7 +25,8 @@ JavaScript – Game logic, DOM manipulation, event handling
 
 Clone the repository
 
-git clone https://github.com/your-username/simon-says-game.git
+git clone https://github.com/Mariyam-k/Simon-Says-mini-project-.git
+
 
 
 Navigate into the project folder
